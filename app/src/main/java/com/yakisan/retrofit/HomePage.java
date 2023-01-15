@@ -1,20 +1,17 @@
-package com.yakisan.rasathane;
+package com.yakisan.retrofit;
 
 import android.os.Bundle;
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
 
-import com.yakisan.rasathane.adapter.PostsAdapter;
+import com.yakisan.retrofit.adapter.PostsAdapter;
 import com.yakisan.rasathane.databinding.ActivityHomepageBinding;
-import com.yakisan.rasathane.model.Posts;
-import com.yakisan.rasathane.retrofit.RetrofitClient;
+import com.yakisan.retrofit.model.Posts;
+import com.yakisan.retrofit.retrofit.RetrofitClient;
 
 import java.util.ArrayList;
 import java.util.List;

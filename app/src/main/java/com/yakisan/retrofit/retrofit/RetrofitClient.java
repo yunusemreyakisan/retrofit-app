@@ -1,4 +1,4 @@
-package com.yakisan.rasathane.retrofit;
+package com.yakisan.retrofit.retrofit;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

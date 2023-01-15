@@ -1,6 +1,6 @@
-package com.yakisan.rasathane.retrofit;
+package com.yakisan.retrofit.retrofit;
 
-import com.yakisan.rasathane.model.Posts;
+import com.yakisan.retrofit.model.Posts;
 
 import java.util.List;
 

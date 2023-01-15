@@ -1,4 +1,4 @@
-package com.yakisan.rasathane.model;
+package com.yakisan.retrofit.model;
 
 public class Posts {
 

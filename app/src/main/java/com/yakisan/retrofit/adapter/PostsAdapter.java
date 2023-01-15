@@ -1,4 +1,4 @@
-package com.yakisan.rasathane.adapter;
+package com.yakisan.retrofit.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.yakisan.rasathane.R;
-import com.yakisan.rasathane.model.Posts;
+import com.yakisan.retrofit.model.Posts;
 
 import java.util.List;
 
