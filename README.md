@@ -12,6 +12,3 @@
 - Internet-based transactions were performed using the **Retrofit** library.
 - Components are linked together using the **View Binding** library. (Type and Null Safety Attribute)
 - The **MVVM** software development architecture pattern was used.
-
-
-<img src="retrofit.gif" width="40" height="40" />
