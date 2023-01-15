@@ -6,7 +6,7 @@
     }
 ```
 
-### Features
+### ✅ Features
 - It was made using **Java**.
 - The base was prepared with **Android** innovations.
 - Internet-based transactions were performed using the **Retrofit** library.
