@@ -8,7 +8,5 @@
 
 ### ✅ Features
 - It was made using **Java**.
-- The base was prepared with **Android** innovations.
 - Internet-based transactions were performed using the **Retrofit** library.
 - Components are linked together using the **View Binding** library. (Type and Null Safety Attribute)
-- The **MVVM** software development architecture pattern was used.
