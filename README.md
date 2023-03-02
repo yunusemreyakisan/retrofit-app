@@ -2,7 +2,7 @@
 
 ```java
     public static String[] myStack(){
-        return new String[]{"Java", "Android", "Retrofit", "View Binding", "MVVM"};
+        return new String[]{"Java", "Android", "Retrofit", "View Binding"};
     }
 ```
 
